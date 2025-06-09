@@ -1,0 +1,12 @@
+# Core dependencies
+langgraph
+langchain
+langchain-openai
+langchain-community
+pydantic
+python-dotenv
+yfinance
+pandas
+numpy
+plotly
+typing-extensions
