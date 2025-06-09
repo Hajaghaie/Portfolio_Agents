@@ -1,6 +1,6 @@
 # Agentic Portfolio Construction: A Multi-Agent Architecture for LLM-Driven Financial Asset Allocation
 
-This repository contains the implementation of a LangGraph-based multi-agent framework for personalized investment portfolio construction. The system integrates large language models (LLMs), financial data APIs, and modular agent workflows to build, evaluate, and report tailored investment strategies.
+This repository contains the implementation of a LangGraph-based multi-agent framework for personalized investment portfolio construction. The system integrates large language models (LLMs), financial data APIs, and modular agent workflows to build, evaluate, and report tailored investment strategies. It use Tavily for sentiment and market news, and Yahoo! Finance to fetch the latest market data.
 
 ## 🔍 Overview
 
